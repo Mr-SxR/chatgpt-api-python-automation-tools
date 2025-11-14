@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/headerimg.jpg" alt="ChatGPT API Python Automation Banner" width="100%">
+</p>
+
 # 🤖 Integrating ChatGPT API in Python — Build Smart Automation Tools
 
 The ChatGPT API allows developers to create intelligent automation tools using natural language understanding and text generation.  
