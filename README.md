@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/headerimg.jpg" alt="ChatGPT API Python Automation Banner" width="100%">
+  <img src="assets/heroimg.jpg" alt="ChatGPT API Python Automation Banner" width="100%">
 </p>
 
 # 🤖 Integrating ChatGPT API in Python — Build Smart Automation Tools
